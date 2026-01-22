@@ -35,7 +35,7 @@ tags:
 featured: false
 
 links:
-  - name: Link
+  - name: Web Link
         #这里替换成IEEE网站的链接
     url: https://ieeexplore.ieee.org/document/11243347
 #这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
