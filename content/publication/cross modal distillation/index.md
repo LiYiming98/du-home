@@ -13,7 +13,7 @@ authors:
 #论文发表时间 只更改年月日
 date: '2025-08-03T00:00:00Z'
 #doi号
-doi: '10.1109/IGARSS55030.2025.11243347'
+#doi: '10.1109/IGARSS55030.2025.11243347'
 #同论文发表时间 只更改年月日
 publishDate: '2025-11-25T00:00:00Z'
 
@@ -35,10 +35,10 @@ tags:
 featured: false
 
 links:
-  - name: IEEE Link
+  - name: Link
         #这里替换成IEEE网站的链接
     url: https://ieeexplore.ieee.org/document/11243347
-        #这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
+#这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
 url_pdf: './cross modal distillation.pdf'
 # 都留空
 url_code: ''
