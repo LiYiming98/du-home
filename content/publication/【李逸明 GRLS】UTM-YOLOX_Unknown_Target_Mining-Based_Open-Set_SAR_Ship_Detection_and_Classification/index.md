@@ -30,34 +30,7 @@ publication: 'IEEE Geoscience and Remote Sensing Letters'
 publication_short: ''
 
 # （重要修改）文章摘要
-abstract: Existing synthetic aperture radar (SAR) ship detection
-and classification methods based on deep learning have
-achieved notable performance under the close-set assumptions.
-However, SAR object detection and classification tasks inherently
-operate in open-set scenarios, which naturally involve the
-potential presence of unknown noncooperative targets. Closed-set
-methods cannot identify these unknown targets, often misclassifying
-them as known classes or background, leading to significant
-errors. Therefore, this letter proposes an unknown-target miningbased
-open-set SAR ship detection and classification method
-UTM-YOLOX, which preserves the performance for known
-targets while enhancing the ability to detect and identify
-unknown targets. First, class-agnostic localization quality estimation
-(CLQE) is utilized in the regression heads of YOLOX
-to improve the detection of unknown targets. Unlike binary
-foreground-background classification, CLQE focuses on learning
-the quality of target localization, providing richer information
-for target detection. Second, an open-set classifier (OSC) is
-proposed for classification heads of YOLOX to identify the
-unknown targets and known classes, which includes unknown
-class discriminant learning (UCDL) and contrastive clustering
-learning (C2L). UCDL utilizes the detected proposals of suspected
-unknown targets into the training of the OSC, enabling the model
-to eectively identify unknown targets, while C2L is utilized to
-improve the discriminative ability between known and unknown
-targets. Experiments on SRSDD-v1.0 demonstrate that UTMYOLOX
-achieves satisfactory performance. The code is available
-at https://github.com/LiYiming98/UTM-YOLOX
+abstract: Existing synthetic aperture radar (SAR) ship detection and classification methods based on deep learning have achieved notable performance under the close-set assumptions. However, SAR object detection and classification tasks inherently operate in open-set scenarios, which naturally involve the potential presence of unknown noncooperative targets. Closed-set methods cannot identify these unknown targets, often misclassifying them as known classes or background, leading to significant errors. Therefore, this letter proposes an unknown-target miningbased open-set SAR ship detection and classification method UTM-YOLOX, which preserves the performance for known targets while enhancing the ability to detect and identify unknown targets. First, class-agnostic localization quality estimation (CLQE) is utilized in the regression heads of YOLOX to improve the detection of unknown targets. Unlike binary foreground-background classification, CLQE focuses on learning the quality of target localization, providing richer information for target detection. Second, an open-set classifier (OSC) is proposed for classification heads of YOLOX to identify the unknown targets and known classes, which includes unknown class discriminant learning (UCDL) and contrastive clustering learning (C2L). UCDL utilizes the detected proposals of suspected unknown targets into the training of the OSC, enabling the model to eectively identify unknown targets, while C2L is utilized to improve the discriminative ability between known and unknown targets. Experiments on SRSDD-v1.0 demonstrate that UTMYOLOX achieves satisfactory performance. The code is available at https://github.com/LiYiming98/UTM-YOLOX
 # 这些都留空 不要删除
 summary:  
 tags:
