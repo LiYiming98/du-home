@@ -41,7 +41,7 @@ links:
         #这里替换成IEEE网站的链接
     url: https://ieeexplore.ieee.org/abstract/document/11183838
         #这里替换成文件夹中pdf的相对路径 应为'./xxxxx.pdf' 注意引号和反斜杠
-url_pdf: './paper.pdf'
+url_pdf: './Open-Set Domain Adaptation via Adaptive Separation.pdf'
 # 都留空
 url_code: ''
 url_dataset: ''
