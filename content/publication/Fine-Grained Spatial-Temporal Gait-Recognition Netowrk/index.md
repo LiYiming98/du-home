@@ -1,6 +1,6 @@
 ---
 # 论文名称，
-title:Fine-Grained Spatial–Temporal Gait Recognition Network Based on Millimeter-Wave Radar Point Cloud
+title: Fine-Grained Spatial–Temporal Gait Recognition Network Based on Millimeter-Wave Radar Point Cloud
 
 # 作者信息
 authors:
