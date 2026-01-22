@@ -1,18 +1,21 @@
 ---
-# 请注意 任何参数（如摘要）值内出现的任何双引号（“）或反斜杠（如LaTeX\times）都应使用反斜杠（\）进行转义。例如，符号“和LaTeX text\times分别变为\”和\\times。有关详细信息，请参阅YAML或TOML文档。
-#title：论文标题可以使用空格注意引号
+# （重要修改） title：论文标题可以使用空格注意引号
 title: 'Joint 3-D ISAR Imaging and Dynamic Estimation of Spinning Spacecraft Based on Signal Phase Analysis'
-#按照实际情况填写
+
+# （重要修改） 按照实际情况填写
 authors:
   - Zhuowei Cao
   - Lan Du
   - Jian Chen
   - Haonan Guo
-#论文发表时间 只更改年月日
+
+# （重要修改） 论文发表时间 只更改年月日
 date: '2025-07-17T00:00:00Z'
+
 #doi号
 #doi: '10.1109/TAES.2025.3584322'
-#同论文发表时间 只更改年月日
+
+# （重要修改）同论文发表时间 只更改年月日
 publishDate: '2025-07-17T00:00:00Z'
 
 # 选填 1 或者 2 注意引号
@@ -21,12 +24,16 @@ publishDate: '2025-07-17T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ['2']
 
+
 # 期刊/会议名称 要求全称
 publication: 'IEEE Transactions on Geoscience and Remote Sensing'
+
 # 留空
 publication_short: ''
-# 文章摘要
+
+# （重要修改）文章摘要
 abstract: Three-dimensional (3-D) geometry reconstruction and dynamic estimation of spinning spacecraft are crucial for space surveillance. Existing methods rely on interpreting 2-D inverse synthetic aperture radar (ISAR) images, which often suffer from image defocusing and scaling errors induced by target spin. To tackle this problem, we propose a joint 3-D ISAR imaging and dynamic estimation framework based on signal phase analysis, eliminating the need for prior 2-D imaging. After modeling the complex rotation of a spinning spacecraft relative to radar, we establish an overdetermined system of equations based on relationships between target parameters and cubic phase coefficients of radar echoes. Then, our two-step solution framework is organized as follows. First, we estimate cubic phase coefficients of the multicomponent signal through sparse representation (SR). To construct compact dictionaries for SR, we combine the coarse estimation and the phase order hierarchical processing (POHP) strategy to guide their design. Second, 3-D locations of scatterers, spin velocity, and direction of spin axis are estimated from the phase coefficients by solving the equation system. To ensure accurate and efficient solutions, we derive their iterative formulas using an alternating iterative strategy. With these formulas, 3-D ISAR imaging and dynamic estimation can be achieved directly. The effectiveness and superiority of our method are verified by experiments on simulated ISAR echoes.
+
 # 这些都留空 不要删除
 summary:  
 tags:
