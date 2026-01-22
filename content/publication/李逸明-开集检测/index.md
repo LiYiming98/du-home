@@ -1,6 +1,6 @@
 ---
 # （重要修改） title：论文标题可以使用空格注意引号!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-title: 'Class-Incremental SAR Ship Detection and Classification via Context-Robust Exemplar Replay and Multigranularity Knowledge Distillation'
+title: 'UTM-YOLOX: Unknown Target Mining-Based Open-Set SAR Ship Detection and Classification'
 
 # （重要修改） 按照实际情况填写!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 authors:
