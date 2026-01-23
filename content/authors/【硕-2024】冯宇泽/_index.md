@@ -1,6 +1,6 @@
 ---
 # 姓名
-title: 雷贵岚
+title: 冯宇泽
 
 superuser: false
 
@@ -13,7 +13,7 @@ social:
 # 替换link行的邮箱
   - icon: envelope
     icon_pack: fas
-    link: '24021211523@stu.xidian.edu.cn'
+    link: '24021211535@stu.xidian.edu.cn'
 
 # 替换link行的谷歌学术主页（没有的话请注释掉下三行）
   # - icon: google-scholar

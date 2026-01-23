@@ -1,6 +1,6 @@
 ---
 # 姓名
-title: 雷贵岚
+title: 何俊甫
 
 superuser: false
 
@@ -13,17 +13,17 @@ social:
 # 替换link行的邮箱
   - icon: envelope
     icon_pack: fas
-    link: '24021211523@stu.xidian.edu.cn'
+    link: '25021211538@stu.xidian.edu.cn'
 
 # 替换link行的谷歌学术主页（没有的话请注释掉下三行）
-  # - icon: google-scholar
-  #   icon_pack: ai
-    # link: https://scholar.google.com/citations?user=KP8-5qwAAAAJ&hl=zh-CN
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com/citations?user=KP8-5qwAAAAJ&hl=zh-CN
 
 # 替换link行的个人主页（没有的话请注释掉下三行）
-  # - icon: house
-  #   icon_pack: fas
-    # link: https://github.com/LiYiming98/
+  - icon: house
+    icon_pack: fas
+    link: https://github.com/JeffHe0111/
 
 highlight_name: false
 
