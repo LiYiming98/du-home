@@ -21,7 +21,7 @@ social:
 # 替换link行的个人主页（没有的话请注释掉下三行）
   - icon: house
     icon_pack: fas
-    link: https://github.com/LiYiming98/
+    link: https://ocean.upc.edu.cn/2025/0908/c15435a470361/page.htm
 
 highlight_name: false
 
