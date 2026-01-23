@@ -1,17 +1,17 @@
 ---
 # 姓名
-title: 王梓霖
-weight: 23
+title: 宋佳伦
+weight: 21
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 2023级博士研究生<br>雷达目标识别
+role: 2023级博士研究生<br>雷达目标识别<br>***
 
 social:
 # 替换link行的邮箱
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:wzlwzl12345@qq.com'
+    link: 'mailto:xd_sjl@163.com'
 
 
 highlight_name: false
