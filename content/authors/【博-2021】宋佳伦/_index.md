@@ -5,7 +5,7 @@ weight: 21
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
-role: 2023级博士研究生<br>雷达目标识别<br>***
+role: 2021级博士研究生<br>雷达目标识别<br>***
 
 social:
 # 替换link行的邮箱
