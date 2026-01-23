@@ -6,14 +6,13 @@ superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
 # 如果不愿意透露毕业工作地点，可以把后面改成“***”
-role: 2020级博士研究生<br>中国石油大学（华东校区）;
-
+role: 2020级博士研究生<br>智能目标雷达检测识别<br>中国石油大学（华东校区）;
 
 social:
 # 替换link行的邮箱
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:shiyu1213@126.com'
+    link: 'mailto:shiyu@upc.edu.cn'
 # 替换link行的谷歌学术主页（没有的话请注释掉下三行）
   - icon: google-scholar
     icon_pack: ai
