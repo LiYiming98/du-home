@@ -56,25 +56,27 @@ sections:
         folders:
           - post
         # All set tags: report, event, paper, internship, forum, contest， news
-        exclude_tags: [expired]
-        tags: [paper, internship, forum, contest, people, news]
+#        exclude_tags: [expired]
+#        tags: [paper, internship, forum, contest, people, news]
         kinds:
           - page
       count: 9
       sort_by: 'date'
       sort_ascending: false
 
+
     design:
       columns: '1'
       view: masonry
+      # view: card
       flip_alt_rows: true
       background: {}
       # spacing: {padding: [20px, 20px, 20px, 20px]}
 
-    design:
-      # Choose a listing view
-      view: Showcase
-      # Choose single or dual column layout
-      columns: '1'
-      flip_alt_rows: false
+#    design:
+#      # Choose a listing view
+#      view: Showcase
+#      # Choose single or dual column layout
+#      columns: '1'
+#      flip_alt_rows: false
 ---
