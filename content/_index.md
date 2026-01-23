@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: <div style="user-select:none;">雷达目标识别</div>
-        content: <div style="margin-top:60px; margin-bottom:40px; font-size:12pt; width:72%; min-width:150px; height:180px; color:#fff; text-indent:2em;"><div style="display:inline-block; position:relative; top:50%; -webkit-transform:translateY(-50%);user-select:none;"><p>雷达目标识别旨在实现雷达传感器精细化目标信息获取及智能化信息利用，是智能化雷达的核心技术。如何从探测到的众多情报信息中及时准确地判别目标属性，是长期困扰我国雷达装备的一大瓶颈难题。</p><p style="margin-top:-1.2vh;">研究方向包括但不限于信号域和图像域物理特征提取、少量标注条件下的统计学习和深层网络学习、复杂场景开放感知与持续学习、视觉-语言大模型迁移学习等。</p></div></div>
+        content: <div style="margin-top:60px; margin-bottom:40px; font-size:12pt; width:72%; min-width:150px; height:180px; color:#fff; text-indent:2em;"><div style="display:inline-block; position:relative; top:50%; -webkit-transform:translateY(-50%);user-select:none;"><p>雷达目标识别旨在实现雷达传感器精细化目标信息获取及智能化信息利用，是智能化雷达的核心技术。如何从探测到的众多情报信息中及时准确地判别目标属性，是长期困扰我国雷达装备的一大瓶颈难题。</p><p style="margin-top:-1.2vh;">课题组研究方向包括但不限于信号域和图像域物理特征提取、少量标注条件下的统计学习和深层网络学习、复杂场景开放感知与持续学习、视觉-语言大模型迁移学习等。</p></div></div>
         align: left
         background:
           image:
