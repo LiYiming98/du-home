@@ -1,7 +1,7 @@
 ---
 # 姓名
 title: 段治仲
-
+weight: 23
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
