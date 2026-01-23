@@ -46,7 +46,7 @@ sections:
         align: left
         background:
           image:
-            filename: "pic/2023毕业生合照2.jpg"
+            filename: "pic/2023毕业生合照2.png"
             filters:
               brightness: 1
           position: right
