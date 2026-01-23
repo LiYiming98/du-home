@@ -24,10 +24,8 @@ publication_types: ['2']
 
 # 期刊/会议名称 （替换单引号内的XXX）
 publication: 'IEEE Transactions on Aerospace and Electronic Systems'
-
 # 留空
 publication_short: ''
-
 # 文章摘要XXX，注意冒号与摘要之间有空格。不要删除单引号'''
 abstract: 'This article investigates the problem of joint adaptive target detection, position determination, and velocity estimation with a long-baseline radar network. The problem is cast as a binary composite hypothesis testing in a homogeneous noise environment, where the target's position and velocity under the alternative hypothesis are unknown. To tackle the problem, the generalized likelihood ratio testing criterion (both one-step and two-step) is considered, where the statistics of the maximum likelihood estimates (MLEs) of the parameters are calculated. The optimization problem involved by the maximum likelihood estimation is handled via two different optimization strategies: the direct refinement method based on the steepest ascent initialized by the given rough point and the mixed refinement initialized by indirect results. In this way, the MLEs of the position and velocity are directly provided, while the target is detected with less straddle loss. The detection performance and parameter estimation accuracy of the proposed adaptive architectures are analyzed. Furthermore, the simulation results are compared with the “detection then localization” methods to illustrate the validity of the proposed method.'
 # 这些都留空 不要删除
