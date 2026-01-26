@@ -41,17 +41,7 @@ sections:
           position: right
           color: '#fff'
           fit: contain
-      - title: 实验室2023级研究生毕业合影
-        content: 
-        align: left
-        background:
-          image:
-            filename: "pic/2023毕业生合照2.png"
-            filters:
-              brightness: 1
-          position: right
-          color: '#fff'
-          fit: contain
+
       - title: 实验室举办2023届毕业研究生聚餐活动
         content: 
         align: left
