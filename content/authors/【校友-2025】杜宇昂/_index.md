@@ -1,7 +1,7 @@
 ---
 # 姓名
 title: 杜宇昂
-weight: 1/25
+weight: 202506
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）

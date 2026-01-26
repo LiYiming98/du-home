@@ -1,7 +1,7 @@
 ---
 # 姓名
 title: 石钰
-weight: 1/24
+weight: 202412
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
