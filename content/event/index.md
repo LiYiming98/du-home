@@ -19,7 +19,7 @@ sections:
           position: center
           color: '#fff'
           fit: cover
-      - title: 实验室举办205届毕业研究生聚餐活动
+      - title: 实验室举办2025届毕业研究生聚餐活动
         content: 
         align: left
         background:
