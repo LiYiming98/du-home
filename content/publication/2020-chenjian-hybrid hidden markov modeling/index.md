@@ -1,6 +1,6 @@
 ---
 # 论文完整标题XXX，注意冒号与论文完整标题之间有空格
-title: Hybrid hidden markov modeling for target recognition based on high-resolution radar signal
+title: "Hybrid hidden markov modeling for target recognition based on high-resolution radar signal"
 
 # 作者信息
 authors:

@@ -1,6 +1,6 @@
 ---
 # 论文完整标题XXX，注意冒号与论文完整标题之间有空格
-title: Analysis of micro-Doppler signatures of moving vehicles by using empirical mode decomposition
+title: "Analysis of micro-Doppler signatures of moving vehicles by using empirical mode decomposition"
 
 # 作者信息
 authors:

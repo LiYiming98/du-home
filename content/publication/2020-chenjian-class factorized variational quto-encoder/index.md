@@ -1,6 +1,6 @@
 ---
 # 论文完整标题XXX，注意冒号与论文完整标题之间有空格
-title: Class Factorized Variational Auto-encoder for Radar HRRP Target Recognition
+title: "Class Factorized Variational Auto-encoder for Radar HRRP Target Recognition"
 
 # 作者信息
 authors:

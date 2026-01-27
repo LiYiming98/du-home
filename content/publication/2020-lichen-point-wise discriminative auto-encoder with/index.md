@@ -1,6 +1,6 @@
 ---
 # 论文完整标题XXX，注意冒号与论文完整标题之间有空格
-title: Point-wise discriminative auto-encoder with application on robust radar automatic target recognition
+title: "Point-wise discriminative auto-encoder with application on robust radar automatic target recognition"
 
 # 作者信息
 authors:

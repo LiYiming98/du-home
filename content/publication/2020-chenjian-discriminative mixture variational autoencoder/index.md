@@ -1,6 +1,6 @@
 ---
 # 论文完整标题XXX，注意冒号与论文完整标题之间有空格
-title: Discriminative Mixture Variational Autoencoder for Semisupervised Classification
+title: "Discriminative Mixture Variational Autoencoder for Semisupervised Classification"
 
 # 作者信息
 authors:

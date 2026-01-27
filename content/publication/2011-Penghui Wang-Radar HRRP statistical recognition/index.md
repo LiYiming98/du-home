@@ -1,6 +1,6 @@
 ---
 # 论文完整标题XXX，注意冒号与论文完整标题之间有空格
-title: Radar HRRP statistical recognition with temporal factor analysis by automatic Bayesian Ying-Yang harmony learning
+title: "Radar HRRP statistical recognition with temporal factor analysis by automatic Bayesian Ying-Yang harmony learning"
 
 # 作者信息
 authors:

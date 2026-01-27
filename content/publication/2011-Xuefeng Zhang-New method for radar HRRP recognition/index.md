@@ -1,6 +1,6 @@
 ---
 # 论文完整标题XXX，注意冒号与论文完整标题之间有空格
-title: New method for radar HRRP recognition and rejection based on weighted majority voting combination of multiple classifiers
+title: "New method for radar HRRP recognition and rejection based on weighted majority voting combination of multiple classifiers"
 
 # 作者信息
 authors:

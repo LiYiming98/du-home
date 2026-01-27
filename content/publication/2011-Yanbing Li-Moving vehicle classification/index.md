@@ -1,6 +1,6 @@
 ---
 # 论文完整标题XXX，注意冒号与论文完整标题之间有空格
-title: Moving vehicle classification based on micro-Doppler signature
+title: "Moving vehicle classification based on micro-Doppler signature"
 
 # 作者信息
 authors:

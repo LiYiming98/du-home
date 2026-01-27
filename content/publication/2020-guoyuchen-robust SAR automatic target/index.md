@@ -1,6 +1,6 @@
 ---
 # 论文完整标题XXX，注意冒号与论文完整标题之间有空格
-title: Robust SAR Automatic Target Recognition Via Adversarial Learning
+title: "Robust SAR Automatic Target Recognition Via Adversarial Learning"
 
 # 作者信息
 authors:

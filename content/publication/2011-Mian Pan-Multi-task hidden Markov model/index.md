@@ -1,6 +1,6 @@
 ---
 # 论文完整标题XXX，注意冒号与论文完整标题之间有空格
-title: Multi-task hidden Markov model for radar automatic target recognition
+title: "Multi-task hidden Markov model for radar automatic target recognition"
 
 # 作者信息
 authors:
