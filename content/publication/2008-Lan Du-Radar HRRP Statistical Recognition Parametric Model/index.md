@@ -1,6 +1,6 @@
 ---
 # 论文完整标题XXX，注意冒号与论文完整标题之间有空格
-title: Radar HRRP Statistical Recognition: Parametric Model and Model Selection
+title: "Radar HRRP Statistical Recognition: Parametric Model and Model Selection"
 
 # 作者信息
 authors:
