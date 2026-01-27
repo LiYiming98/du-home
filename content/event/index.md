@@ -30,6 +30,17 @@ sections:
           position: right
           color: '#fff'
           fit: contain
+      - title: 实验室成员石钰参加2024年度研究生校长奖答辩
+        content: 
+        align: left
+        background:
+          image:
+            filename: "pic/2024校长奖答辩.jpg"
+            filters:
+              brightness: 1
+          position: right
+          color: '#fff'
+          fit: contain
       - title: 实验室2023级研究生毕业合影
         content: 
         align: left
