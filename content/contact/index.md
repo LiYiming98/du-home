@@ -12,7 +12,7 @@ sections:
         无论你有对学术上的抱负还是对工程的热爱，杜家军都会给你全力支持！希望我们共同进步！<br><br>
         杜 兰: dulan@mail.xidian.edu.cn<br>
         陈 健: jianc@xidian.edu.cn<br>
-        郭昱辰: ychguo@xidian.edu.cn
+        郭昱辰: ychguo@xidian.edu.cn<br>
         刘 旭: liuxu@xidian.edu.cn
     design:
       columns: '1'
