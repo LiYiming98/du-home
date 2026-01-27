@@ -1,6 +1,6 @@
 ---
 # 论文完整标题XXX，注意冒号与论文完整标题之间有空格
-title: Logistic stick-breaking process
+title: "Logistic stick-breaking process"
 
 # 作者信息
 authors:

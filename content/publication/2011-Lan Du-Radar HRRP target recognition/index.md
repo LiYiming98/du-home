@@ -1,6 +1,6 @@
 ---
 # 论文完整标题XXX，注意冒号与论文完整标题之间有空格
-title: Radar HRRP target recognition based on dynamic multi-task hidden Markov model
+title: "Radar HRRP target recognition based on dynamic multi-task hidden Markov model"
 
 # 作者信息
 authors:

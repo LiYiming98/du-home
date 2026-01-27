@@ -1,6 +1,6 @@
 ---
 # 论文完整标题XXX，注意冒号与论文完整标题之间有空格
-title: Radar HRRP automatic target recognition: Algorithms and applications
+title: "Radar HRRP automatic target recognition: Algorithms and applications"
 
 # 作者信息
 authors:
