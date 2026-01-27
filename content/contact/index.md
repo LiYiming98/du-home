@@ -13,6 +13,7 @@ sections:
         杜 兰: dulan@mail.xidian.edu.cn<br>
         陈 健: jianc@xidian.edu.cn<br>
         郭昱辰: ychguo@xidian.edu.cn
+        刘 旭: liuxu@xidian.edu.cn
     design:
       columns: '1'
 ---
