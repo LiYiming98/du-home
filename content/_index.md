@@ -19,12 +19,12 @@ sections:
           position: center
           color: '#fff'
           
-      - title: <div style="user-select:none;">雷达信号处理</div>
-        content: <div style="margin-top:60px; margin-bottom:40px; font-size:12pt; width:65%; height:180px; color:#fff; text-indent:2em;"><div style="display:inline-block; position:relative; top:50%; -webkit-transform:translateY(-50%);user-select:none;"><p>研究目标。</p><p style="margin-top:-1.2vh;">研究方向</p></div></div>
+      - title: <div style="user-select:none;">雷达成像</div>
+        content: <div style="margin-top:60px; margin-bottom:40px; font-size:12pt; width:65%; height:180px; color:#fff; text-indent:2em;"><div style="display:inline-block; position:relative; top:50%; -webkit-transform:translateY(-50%);user-select:none;"><p>雷达成像旨在在复杂电磁环境与全天时条件下，高精度重构目标与场景的结构与散射特性，其研究方向涵盖成像机理建模、高分辨成像方法、复杂场景鲁棒成像以及智能化与多源协同成像技术。</p><p style="margin-top:-1.2vh;">课题组研究方向包括但不限于逆合成孔径雷达（ISAR）成像与识别、毫米波雷达感知技术以及雷达点云建模与智能分析。</p></div></div>
         align: left
         background:
           image:
-            filename: coders.jpg
+            filename: radar.png
             filters:
               brightness: 0.7
           position: right
