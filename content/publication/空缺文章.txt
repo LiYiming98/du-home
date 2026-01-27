@@ -1,7 +1,0 @@
-一、New frame segmentation method for radar HRRPs 西电学报
-二、Micro-motion characteristic analysis and recognition of cone-shaped targets西电学报
-
-
-三、Radar HRRP Target Recognition by the Higher-Order Spectra Features：https://www.actapress.com/PaperInfo.aspx?PaperID=15856&reason=500
-四、直升机雷达回波的分析与检测：https://journal.xidian.edu.cn/xdxb/CN/Y2003/V30/I5/574  西电学报
-五、The Hierarchical Local Partition Process：chrome-extension://kdpelmjpfafjppnhbloffcjpeomlnpah/https://d1wqtxts1xzle7.cloudfront.net/77692536/HLPP_JMLR_10-libre.pdf?1640869521=&response-content-disposition=inline%3B+filename%3DThe_Hierarchical_Local_Partition_Process.pdf&Expires=1769424746&Signature=QG9iDimLecGKhuBRnLz9cWro1WabmpnGDkbDoMxGYGLJJNDXXDk4YpM6pRxnblSZN3swJMfa2Ljgwq38p15-ZSefDl6rec2vEBXvOAc7~Dbeb4BS9kcC4Zqbhcv5sWGF9M7pELV1nElxCPvlDAlJvJYxYLibhext2l2T3iq37GeBl7jBmbKFlhQV3kybGoMGaAcOE0DgbdcdDSm7BohzxZCO3LgcgwCpbCzWTRxl~dQPdcMg79HOL-eYcxz~OzQ5pC-V02pMCpXpq7QSTmZD85Hzap1DZkZJ3VgoOH0BJEk9n3KTN4Tp3f1m2MP2a7y84dlg-V8rTbh8lXL5TLpkPA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
