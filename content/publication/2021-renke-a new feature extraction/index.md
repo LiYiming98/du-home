@@ -25,7 +25,6 @@ publication: '2021 CIE International Conference on Radar (Radar)
 # 留空
 publication_short: ''
 
-# 文章摘要XXX，注意冒号与摘要之间有空格。不要删除单引号'''
 abstract: 'Since some discriminative features are required for ground moving targets classification, we propose a new feature extraction method based on micro-Doppler signature. Firstly, the time-frequency analysis of measured data indicates that the time-frequency spectrograms of the three kinds of ground moving targets, i.e., single walking person, two people walking and a moving wheeled vehicle, are discriminative. Then, a 3-dimensional time-frequency feature vector is extracted from the time-frequency spectrograms to depict these differences. At last, a Support Vector Machine (SVM) classifier is trained with the proposed 3-dimensional feature vector. The classification accuracy to categorize ground moving targets into the three kinds on the measured data is found to be over 96%, which demonstrates the good discriminative ability of the proposed micro-Doppler feature.'
 # 这些都留空 不要删除
 summary:  
