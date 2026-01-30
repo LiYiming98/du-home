@@ -11,5 +11,3 @@ tags:
 <!--more-->
 
 
-
-<img src="./photo.jpg" width=70%;></img>
