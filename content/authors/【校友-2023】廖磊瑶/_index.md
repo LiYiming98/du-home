@@ -1,7 +1,7 @@
 ---
 # 姓名
 title: 廖磊瑶
-weight: -202306
+weight: -1202306
 superuser: false
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
